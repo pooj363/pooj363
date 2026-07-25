@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi 👋 I'm Pooja Lakshmi
 
-<!--
-**pooj363/pooj363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | Aspiring Software Developer | AI & Full Stack Enthusiast
 
-Here are some ideas to get you started:
+📍 Chennai, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+I'm a Computer Science Engineering student passionate about building AI-powered applications and full-stack web projects.
+
+Currently exploring:
+- 🤖 Generative AI
+- 🌐 MERN Stack
+- 📱 React Native
+- ☁ REST APIs
+- 💻 Java & Python
+
+---
+
+## 🚀 Projects
+
+### 🌍 LinguaHub
+Full Stack Multilingual Translation Platform
+- React
+- Node.js
+- Express
+- MongoDB
+- Translation API
+
+---
+
+### 🏥 Hospital Management System
+Java + JDBC + MySQL
+
+---
+### 📓 Personal Diary
+Advanced diary application
+-Python
+-Streamlit
+-SQLite
+-VADER,Textblob
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+Java
+Python
+JavaScript
+C
+
+### Frontend
+
+HTML
+CSS
+React
+
+### Backend
+
+Node.js
+Express
+
+### Database
+
+MongoDB
+MySQL
+
+### Tools
+
+Git
+GitHub
+VS Code
+Postman
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn:
+https://www.linkedin.com/in/pooja-lakshmi-/
