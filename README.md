@@ -30,6 +30,19 @@ Full Stack Multilingual Translation Platform
 - Translation API
 
 ---
+### 🛡 Dark Web Threat Intelligence & Browser Activity Monitoring System
+
+Real-Time Cybersecurity Monitoring Platform with Threat Intelligence & Browser Activity Analysis
+
+- Python
+- Streamlit
+- SQLite
+- Plotly
+- Pandas
+- Psutil
+- SMTP
+- Power BI
+ 
 
 ### 🏥 Hospital Management System
 Java + JDBC + MySQL
